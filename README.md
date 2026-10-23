@@ -15,7 +15,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.2-blue">
 </p>
 
-<!-- DEMO -->
+<p align="center">
+  <img src="docs/demo.gif" width="660" alt="Notcher demo: opening the player, skipping a track with a swipe, the volume HUD, the AirPods popup and a charging alert">
+</p>
 
 ---
 
