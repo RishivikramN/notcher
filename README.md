@@ -55,7 +55,7 @@ pill instead.
 
 ## Installation
 
-1. Download the latest **Notcher-&lt;version&gt;.dmg** from
+1. Download the latest **Notcher.dmg** from
    [Releases](https://github.com/RishivikramN/notcher/releases).
 2. Open it and drag **Notcher** into **Applications**.
 3. Launch Notcher from Applications. Its icon appears in the menu bar.
