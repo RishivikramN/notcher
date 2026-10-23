@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+notcher-arch-spec.md
+notcher.md
+dist/
